@@ -1,0 +1,13 @@
+.bg-color{
+	background-color: #fceae8;
+}
+.btn-color{
+	color: white;
+	background-image:linear-gradient(to bottom, #FF589B 0%,  #FF4B92 100%);
+	border-radius: 8px;
+	padding: 9px 25px;
+	border: none;
+}
+.cat-img img{
+	width: 100px;
+}
